@@ -1,0 +1,7 @@
+use_frameworks!
+target 'FFTestLibrary_Tests' do
+  pod 'FFTestLibrary', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
