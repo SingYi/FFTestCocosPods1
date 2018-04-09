@@ -1,0 +1,22 @@
+PODS:
+  - Expecta (1.0.6)
+  - FFTestLibrary (0.1.0)
+  - Specta (1.0.6)
+
+DEPENDENCIES:
+  - Expecta
+  - FFTestLibrary (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  FFTestLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  FFTestLibrary: 704f6a8831cac98b97443c1c4c1a6b9759970af1
+  Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
+
+PODFILE CHECKSUM: 2d358fe57ff093097cd1e2dc53c2def153560a71
+
+COCOAPODS: 1.2.1
